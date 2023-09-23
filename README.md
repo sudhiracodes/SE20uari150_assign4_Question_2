@@ -40,7 +40,7 @@ Fairness:
 
 FCFS is not very fair because it doesn't consider job length or urgency. Longer jobs can cause significant delays for shorter ones.
 
-SJF provides fairness in the sense that shorter jobs are prioritized, which can benefit tasks with shorter execution times. However, it may not consider urgency or priority, which
+SJF provides fairness in the sense that shorter jobs are prioritized, which can benefit tasks with shorter execution times. However, it may not consider urgency or priority, which 
 
 could be important in other scenarios.
 
